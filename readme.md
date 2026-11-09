@@ -1,4 +1,7 @@
 ![Logo ControlFrota](docs/assets/logo.png)
+
+[Acessar o SaaS](http://controlfrota.app) · [LinkedIn de Romulo Valentim](https://www.linkedin.com/in/romulo-valentim-8a2b42178)
+
 # ControlFrota — Plataforma SaaS de Gestão de Frotas e Locadoras
 
 Plataforma SaaS multi-tenant desenvolvida para digitalização de ponta a ponta na operação de locadoras de veículos e gestão de frotas comerciais. A solução centraliza contratos, automação de cobranças bancárias, motor de triagem cadastral antifraude para CNHs via visão computacional, self-vistoria semanal com validação geoespacial e assistente operacional integrado ao WhatsApp.
